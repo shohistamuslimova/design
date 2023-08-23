@@ -1,0 +1,45 @@
+.footer {
+  margin-top: 130px;
+  background-color: #030303;
+}
+.footer__container {
+}
+
+.footer__wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.footer__content {
+  width: 540px;
+  margin-left: 65px;
+  padding-top: 85px;
+  padding-bottom: 80px;
+}
+.footer__title {
+  color: var(--light-cream, #fff7f0);
+  font-feature-settings: "clig" off, "liga" off;
+
+  /* Heading (M) */
+  font-family: "Plus Jakarta Sans";
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 25px;
+}
+.footer__paragraph {
+  color: var(--light-cream, #fff7f0);
+  font-feature-settings: "clig" off, "liga" off;
+
+  /* Body (M) */
+  font-family: "Plus Jakarta Sans";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px; /* 155.556% */
+}
+.pink-btn {
+}
+.btn {
+}
